@@ -1,0 +1,62 @@
+.project {
+  margin-bottom: 100px;
+}
+
+.blog-post-img {
+  width: 100%;
+}
+
+.link-body-emphasis {
+  color: whitesmoke !important;
+}
+
+.sidebutton {
+  margin: 0;
+}
+
+.handjet {
+  font-family: "Handjet", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: "ELGR" 1, "ELSH" 2;
+}
+
+.jacquarda-bastarda-9-regular {
+  font-family: "Jacquarda Bastarda 9", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.captcha {
+  background-color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.captcha img {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.button-group {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
