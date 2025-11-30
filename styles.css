@@ -28,6 +28,13 @@
   font-style: normal;
 }
 
+.source-code-pro-regular {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .captcha {
   background-color: #000000;
   display: flex;
@@ -59,11 +66,4 @@ center {
 .images {
   display: flex;
   justify-content: center;
-}
-
-.source-code-pro-regular {
-  font-family: "Source Code Pro", monospace;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
 }
