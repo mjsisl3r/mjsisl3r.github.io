@@ -39,6 +39,10 @@
   color:#39B54A;
 }
 
+.white {
+  color:white
+}
+
 .captcha {
   background-color: #000000;
   display: flex;
