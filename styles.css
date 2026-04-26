@@ -82,8 +82,13 @@ center {
   justify-content: center;
 }
 
-.html, body {
+html, body {
   overflow-x: hidden;
+}
+
+img, iframe {
+  max-width: 100%;
+  height: auto;
 }
 
 .row {
