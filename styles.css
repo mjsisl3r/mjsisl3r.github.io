@@ -81,8 +81,3 @@ center {
   display: flex;
   justify-content: center;
 }
-
-
-body {
-  overflow-x: hidden;
-}
