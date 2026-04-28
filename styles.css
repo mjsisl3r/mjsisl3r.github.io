@@ -94,11 +94,6 @@ body {
   overflow-x: hidden;
 }
 
-img,
-iframe {
-  max-width: 100%;
-}
-
 img:not([height]),
 iframe:not([height]) {
   height: auto;
